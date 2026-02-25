@@ -3,6 +3,6 @@ I am a computer engineering BSc. student at Budapest University of Technology an
 ## Languages I use
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,java)
 ## I’m currently learning
-![My Skills](https://skillicons.dev/icons?i=rust)
+![My Skills](https://skillicons.dev/icons?i=rust,cs,dotnet)
 
 *Csákó Dolores!*
