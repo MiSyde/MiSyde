@@ -6,8 +6,8 @@ Also a lab demonstrator at said university for "The basics of programming" in C 
 ## Languages I use
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python)
 ## Technologies I use
-![My Skills](https://skillicons.dev/icons?i=git,dotnet,mysql,)
+![My Skills](https://skillicons.dev/icons?i=git,dotnet,mysql)
 ## I’m currently learning
-![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)
+![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,kotlin)
 
 *Csákó Dolores!*
